@@ -106,7 +106,7 @@ relates to whether groundwater is likely to be present.
 | **Soil Type** | Clay, Loam, or Sand | Sand and loam let water soak in; heavy clay tends to shed water |
 | **Geological features** | Granite-like or Limestone-like | Already filled in from the BGS lookup; can be overridden |
 | **Elevation / slope** | Gentle, Moderate, or Steep | Gentle ground holds water; steep ground sheds it |
-| **Vegetation vigour** | Absent / Low / Moderate / High water demand | Lush water-loving trees suggest a high water table |
+| **Vegetation vigour** | Low / Moderate / High  | Lush water-loving trees suggest a high water table |
 | **Vegetation height** | Short / Medium / Tall | Tall, well-fed trees often indicate access to deep water |
 | **Drainage density** | How many stream channels are visible within 500 m | Many channels usually mean the area gets and holds water |
 
